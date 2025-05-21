@@ -1,40 +1,30 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+📝 React TODO List
+A clean and user-friendly TODO List application built with React to help you stay organized and boost productivity.
 
-## Getting Started
+🚀 Features
+✅ Add and remove tasks
 
-First, run the development server:
+✔️ Mark tasks as completed or uncompleted
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+💾 Persistent data using LocalStorage
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌓 Light/Dark mode toggle (optional feature)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+📱 Fully responsive design
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🛠️ Tech Stack
+Frontend: React, JavaScript, Tailwind CSS (optional)
 
-## Learn More
+State Management: React Hooks (useState, useEffect)
 
-To learn more about Next.js, take a look at the following resources:
+Storage: LocalStorage (for persistent tasks)
+🤝 Contributing
+Feel free to fork this repo and contribute by submitting a pull request. All contributions are welcome!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📄 License
+This project is licensed under the MIT License.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# My-Todo-List
->>>>>>> b4f1d8d86829133a77fe86d5dfaaf02adc51d821
+🙋‍♂️ Author
+Roshan Jha
+dearjha2019@gmail.com
+🔗 LinkedIn:-https://www.linkedin.com/in/roshan-jha-a32647247/
